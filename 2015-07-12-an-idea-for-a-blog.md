@@ -16,13 +16,21 @@ I want to create and maintain my own engine for this. The reasons are:
 Technical considerations
 ------------------------
 
-* Isomorphic app - fully server side rendered
+* Isomorphic app
+
+  Rendered to static files on build time. Raw markdown and metadata should be hosted along compiled HTML for client side routing and rendering.
 
 * Adhere to *progressive enhancement* principles
 
 * Git integrated
 
   Both engine and content should be version controlled. There should be two separate repos. Eventually I want to post and update via `git push`.
+
+  As much metadata as possible should be gathered from repo. This would ideally include:
+
+  * Publication date (i.e. the [date given post was merged to master](http://stackoverflow.com/questions/11327535/finding-the-date-time-a-file-appeared-in-a-git-branch)?)
+  * Editing history
+  * Authors (if there were changes merged from pull requests)
 
 Nice to have features
 ---------------------
