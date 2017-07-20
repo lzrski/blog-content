@@ -1,1 +1,1 @@
-- [TILT (Things I've Learnt Today)](tilt/)
+- [TILT (Things I've Learnt Today)](/tilt/)
