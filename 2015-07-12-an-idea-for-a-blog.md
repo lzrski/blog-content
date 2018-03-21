@@ -11,7 +11,7 @@ I want to create and maintain my own engine for this. The reasons are:
 
 * I will have everything my way.
 
-* I will be able to write about developing my blog on my blog - [like that](/2015-07-12-static-isomorphic-react-blog.md).
+* I will be able to write about developing my blog on my blog.
 
 Technical considerations
 ------------------------
