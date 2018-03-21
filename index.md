@@ -2,6 +2,8 @@
 
 ## Posts
 
+- `2017-08-04` [Passing `undefined` to a JavaScript promise](2017-08-04-promise-then-undefined.md)
+
 - `2017-08-04` [Weird AWS Region Bug](2017-08-04-weird-aws-region-bug.md)
 
 - `2017-08-04` [Using `Promise.race` in Node.js to enforce a timeout](2017-08-04-node-promise-race-timeout.md)
