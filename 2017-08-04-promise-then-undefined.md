@@ -1,5 +1,4 @@
-Passing `undefined` to JavaScript promise
-=========================================
+# Passing `undefined` to a JavaScript promise
 
 Consider this simple snippet:
 
@@ -20,6 +19,6 @@ The promise will silently resolve to the value of
 
 A good question indeed. I think it's because it hates me.
 
-It's obviously a developer's mistake. My first thought was that introducing type system (like Flow) would solve this - and it would. But why isn't `then` method of a promise just throw a type error as soon as anything other than `function` is passed to it?
+It's obviously a developer's mistake. My first thought was that introducing type system (like Flow) would solve this - and it would. But why isn't `then` method of a promise just throwing a type error as soon as anything other than `function` is passed to it?
 
 This obviously leads to silent and hard to spot bugs. Unfortunately in JS community there is a strong attitude of ignoring the errors and going on as if nothing ever happened.
