@@ -1,14 +1,10 @@
 # How to Install NPM Packages Written in CoffeeScript from a Git Repo
 
-> TODO: Why
-
-  * Example repo
-
-> TODO: How
+> NOTE: Eventually it lead me to create https://github.com/lzrski/npm-git-install
 
 IDEA: Use npm `install` script with value same as `prepublish`, but this would have to be changed before publishing to registry.
 
-It is said to be an antipattern
+It is said to be an anti-pattern
 
 See https://docs.npmjs.com/misc/scripts#common-uses
 
