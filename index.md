@@ -4,6 +4,8 @@
 
 - `2017-08-04` [Weird AWS Region Bug](2017-08-04-weird-aws-region-bug.md)
 
+- `2017-08-04` [Using `Promise.race` in Node.js to enforce a timeout](2017-08-04-node-promise-race-timeout.md)
+
 - `2017-07-21` [Facebook Flow in an Alpine Node Docker Container](2017-07-21-facebook-flow-in-an-alpine-node-docker-container.md)
 
 - `2017-06-29` [Managing Access to NPM Private Packages](2017-06-29-managing-access-to-npm-private-packages.md)
