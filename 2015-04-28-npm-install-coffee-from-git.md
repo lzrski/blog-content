@@ -1,5 +1,4 @@
-How to install npm packages written in coffee-script from git repo
-==================================================================
+# How to Install NPM Packages Written in CoffeeScript from a Git Repo
 
 > TODO: Why
 

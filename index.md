@@ -9,3 +9,5 @@
 - `2017-06-29` [Managing Access to NPM Private Packages](2017-06-29-managing-access-to-npm-private-packages.md)
 
 - `2015-07-12` [An Idea for the Blog]( 2015-07-12-an-idea-for-a-blog.md)
+
+- `2015-04-28` [How to Install NPM Packages Written in CoffeeScript from a Git Repo](2015-04-28-npm-install-coffee-from-git.md)
