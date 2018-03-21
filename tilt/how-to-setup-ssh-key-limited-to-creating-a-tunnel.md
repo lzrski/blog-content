@@ -28,8 +28,9 @@ Let me go through each of them individually:
 
 So in total it's:
 
-
-    command="",restrict,port-forwarding,permitopen="localhost:80" ssh-rsa AAAAB3NzaC1yc2EAAA[...]3c7rmJT5/ tunnel@a.example.com
+```
+command="",restrict,port-forwarding,permitopen="localhost:80" ssh-rsa AAAAB3NzaC1yc2EAAA[...]3c7rmJT5/ tunnel@a.example.com
+```
 
 Make sure it's all in one line and there are is no whitespace between the options.
 
